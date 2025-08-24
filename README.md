@@ -3,5 +3,4 @@
 Materia: Computación gráfica e interacción humano-computadora  
 Alumno: AXEL ALEJANDRO QUINTOS DELGADILLO  
 Profesor: ING. JOSE ROQUE ROMAN GUADARRAMA  
-Grupo: 6  
-Número de cuenta: 319312544
+Grupo: 6

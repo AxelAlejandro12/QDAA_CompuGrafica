@@ -1,0 +1,13 @@
+# Blender 4.5.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl torchstick
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd torchstickColor.png
+map_Ns torchstickRoughness.png
+map_Ke torchstickemmision.png
+map_Bump -bm 1.000000 torchstickNormal.png
